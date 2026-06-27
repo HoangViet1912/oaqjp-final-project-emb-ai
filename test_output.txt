@@ -1,0 +1,17 @@
+test_anger (__main__.TestEmotionDetector.test_anger)
+A mad statement should be classified as anger. ... ok
+test_blank_input (__main__.TestEmotionDetector.test_blank_input)
+A Watson 400 response should produce the required empty result. ... ok
+test_disgust (__main__.TestEmotionDetector.test_disgust)
+A disgusted statement should be classified as disgust. ... ok
+test_fear (__main__.TestEmotionDetector.test_fear)
+An afraid statement should be classified as fear. ... ok
+test_joy (__main__.TestEmotionDetector.test_joy)
+A glad statement should be classified as joy. ... ok
+test_sadness (__main__.TestEmotionDetector.test_sadness)
+A sad statement should be classified as sadness. ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.006s
+
+OK

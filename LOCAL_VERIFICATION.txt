@@ -1,0 +1,18 @@
+LOCAL VERIFICATION
+==================
+
+Unit tests
+----------
+Command: python test_emotion_detection.py
+Result: 6 tests passed, OK.
+
+Static analysis
+---------------
+Command: pylint server.py EmotionDetection/emotion_detection.py
+Result: 10.00/10.
+
+Important
+---------
+The Watson Skills Network endpoint was not reachable from the file-generation environment.
+Run the import, formatted-output, package, deployment, and blank-input checks again inside
+the IBM Skills Network lab before submitting screenshots as live evidence.
